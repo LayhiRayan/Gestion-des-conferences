@@ -153,7 +153,8 @@ GestionConferences/
 
 
 
-![Capturelllllllllllllllllllllllllllllllllll](https://github.com/user-attachments/assets/a8680d25-d671-41b4-92ac-8fc55b81cd2c)
+![bbbbbbbbbbb](https://github.com/user-attachments/assets/beb15694-8b9d-4fbd-8ad2-9d1b4feed70a)
+
 
 
 
