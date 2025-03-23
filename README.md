@@ -151,10 +151,9 @@ GestionConferences/
 
 ### 🧩 Diagramme de Classes Simplifié
 
-![Caphhhhhhhhhhhhhhhhhhhhhhhhhhhhhture](https://github.com/user-attachments/assets/0b4ec184-f46a-4cad-b4b2-eb67a0801b54)
 
 
-
+![Capturvvvvvvvvvvvvvvvvvvvvvvvvvvvvve](https://github.com/user-attachments/assets/6dc4d2f0-716a-45df-879a-8efa0bf32fdc)
 
 
 
