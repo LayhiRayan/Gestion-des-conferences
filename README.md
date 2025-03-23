@@ -6,7 +6,10 @@
 Elle permet de gérer des **événements scientifiques**, leurs **intervenants**, et les **associations entre les deux**.
 
 ---
+## 📌 Logo
+![qqJAVA_L-removebg55555555-preview](https://github.com/user-attachments/assets/6221c05c-94d7-47ff-80ef-21a2eff6ea4d)
 
+---
 ## ✅ Fonctionnalités
 
 - 🎟 **Ajouter un événement**  
