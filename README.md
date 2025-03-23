@@ -186,6 +186,10 @@ GestionConferences/
 - L'association entre intervenants et événements
 - La navigation et l’interface utilisateur
 - Visualisation des statistiques(nombre des intervenants par conference)
+  
+
+
+https://github.com/user-attachments/assets/906b896c-6533-4bca-8ad1-9cfa0bc91a64
 
 
 
