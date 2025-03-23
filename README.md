@@ -78,7 +78,8 @@ CREATE TABLE IF NOT EXISTS user (
 
 ---
 ## 🧱 Architecture en Couches – Gestion des Conférences Scientifiques
-![Schema1 drawio](https://github.com/user-attachments/assets/45c8b467-112b-4410-a8eb-508bb9c4b199)
+![Schema1 drawio](https://github.com/user-attachments/assets/a3b0a100-d441-4ca4-9a6c-dcb342240fab)
+
 
 ---
 
@@ -140,13 +141,14 @@ GestionConferences/
 ## 📐 Modélisation UML
 
 ### 📌 Diagramme de Cas d’Utilisation
-![Captureeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/user-attachments/assets/b780274d-8c3f-49f0-a9a2-65a381a39921)
+![Captureeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/user-attachments/assets/5572d8ed-72e9-4b6c-9a17-45022142e6f0)
+
 
 
 
 ### 🧩 Diagramme de Classes Simplifié
 
-![Captcccccccccccccure](https://github.com/user-attachments/assets/1c8c89f7-1992-4204-a936-b2572d552e41)
+![Captcccccccccccccure](https://github.com/user-attachments/assets/0ef601a0-2db6-4414-ae80-c2670d4e8e0a)
 
 
 ---
