@@ -189,7 +189,11 @@ GestionConferences/
   
 
 
-https://github.com/user-attachments/assets/906b896c-6533-4bca-8ad1-9cfa0bc91a64
+
+
+https://github.com/user-attachments/assets/217997bd-225f-435a-af80-64ec9ee509e6
+
+
 
 
 
