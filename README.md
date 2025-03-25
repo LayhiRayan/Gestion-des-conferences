@@ -202,10 +202,7 @@ GestionConferences/
 
 
 
-https://github.com/user-attachments/assets/217997bd-225f-435a-af80-64ec9ee509e6
-
-
-
+https://github.com/user-attachments/assets/073419c0-9c13-4c0b-82a0-32995aacc313
 
 
 ---
